@@ -1,1 +1,4 @@
- Everything you need to know is in this [link](https://docs.google.com/document/d/14xJVUNUHwW006d_XYxdqm7YHcHXkjILTBcbp9EVOA6s/edit#). 
+Flask App for the capstone project of Lisbon Data Science Academy (https://www.lisbondatascience.org/starters-academy/).
+Additional Jupyter Notebooks - EDA and App creation proccess.
+
+For better understanding for the project and to read the final report please contact me.
